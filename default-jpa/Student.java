@@ -1,3 +1,5 @@
+// package and imports
+
 @Entity
 public class Student {
     @Id
